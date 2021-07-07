@@ -1,0 +1,22 @@
+h3,#submit_btn{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+input{
+    margin:10px;
+}
+
+#sort_btn{
+    display:none;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+#display_name_with_commas{
+    background-color:orange;
+}
+
+#display_name_without_commas{
+    background-color:blue;
+}
